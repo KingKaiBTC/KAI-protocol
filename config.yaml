@@ -1,0 +1,9 @@
+# config.yaml
+port: 8099
+socketport: 8088
+name: "KAIIndexer"
+_dbpath: "E:\\mrc20db\\real\\db"
+_recpath: "E:\\mrc20db\\real\\rec"
+dbpath: "E:\\mrc20db\\test\\db"
+recpath: "E:\\mrc20db\\test\\rec"
+
